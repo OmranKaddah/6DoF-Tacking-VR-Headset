@@ -9,4 +9,12 @@ The 3D mounted model can found in the file Model.skp . The model can be viewed u
 </p>
 
 <p> 
-It is better to craftthe model using low-wight metrials like hard cardbord. Also it's better to  get the 
+It is better to craft the model using low-wight metrials like hard cardbord. And the VR headset should fit in the model. Otherwise the dimension constants have to be changed in the code.
+</p>
+
+<p> Markers to attached are found in the folder Markers. The picture of each marker is in the excat right dimension of the code. Each edge should have a lenght of 6 cm. And every markers has a code, the corrosponding code is the name of the file. Each marker should be placed according the to blueprint of the model. The model blueprint can found in ModelP.jpg
+</p>
+
+<p> After building the project and debugging it and after crafting the model. If the model is placed in fornt of camera, the resultant information willbe send to Andriod device, The app can be found in Andriod folder</p>
+
+<p> For more info about project please check the report</p>
