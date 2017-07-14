@@ -15,6 +15,6 @@ It is better to craft the model using low-wight metrials like hard cardbord. And
 <p> Markers to attached are found in the folder Markers. The picture of each marker is in the excat right dimension of the code. Each edge should have a lenght of 6 cm. And every markers has a code, the corrosponding code is the name of the file. Each marker should be placed according the to blueprint of the model. The model blueprint can found in ModelP.jpg
 </p>
 
-<p> After building the project and debugging it and after crafting the model. If the model is placed in fornt of camera, the resultant information will be send wirelessly, there is an app in Andriod folder, which displays the translationa nd rotation vectors given the IP address and the port. The information is sent in the pattern  X;Y;Z;roll;pitch;yaw;</p>
+<p> After building the project and debugging it and after crafting the model. If the model is placed in fornt of camera, the resultant information will be send wirelessly, there is an app in Andriod folder, which displays the translationa nd rotation vectors given the IP address and the port(54001). The information is sent in the pattern  X;Y;Z;roll;pitch;yaw;</p>
 
 <p> For more info about project please check the report</p>
