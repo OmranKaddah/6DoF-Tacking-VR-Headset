@@ -17,4 +17,6 @@ It is better to craft the model using low-wight metrials like hard cardbord. And
 
 <p> After building the project and debugging it and after crafting the model. If the model is placed in fornt of camera, the resultant information will be send wirelessly, there is an app in Andriod folder, which displays the translationa nd rotation vectors given the IP address and the port(54001). The information is sent in the pattern  X;Y;Z;roll;pitch;yaw;</p>
 
+<p> The project Requires importing OpenCv Library and contribution library of Opencv, when building the libraries, with Cmake for instance, include ArUco.</p>
+
 <p> For more info about project please check the report</p>
