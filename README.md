@@ -1,6 +1,6 @@
 <h1>6DoF TRACKING OF A VR HEADSET</h2>
 <h3>Discrption</h3>
-<p>Project consist of a program that implements a system which tracks a model with ArUco markers attached on it and designed to be mounted on the VR headset. The tracking system estemates the 3D pose of the calibrated camera with respect to the n points on the model by solving PnP(Perspective-n-Points) problem after the detection of ArUco markers. The resulting information of the tracking system, the rotation (roll, pitch, and yaw) and 3D translation of the camera with respect to the world, is sent to the mobile device(Andriod). The information can be used in any 6DoF VR application for detecting user's headmovments and orientation.</P
+<p>Project consists of a a system which tracks a model with ArUco markers attached on it, which designed to be mounted on the VR headset for the purpose of this. The tracking system estemates the 3D pose of the calibrated camera with respect to the n points on the model by solving PnP(Perspective-n-Points) problem after the detection of ArUco markers. The resulting information of the tracking system, the rotation (roll, pitch, and yaw) and 3D translation of the camera with respect to the world, is sent to the mobile device(Andriod). The information can be used in any 6DoF VR application for detecting user's headmovments and orientation.</P
 
 
 <h3> Crafting The Mounted Model</h3>
